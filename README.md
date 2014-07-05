@@ -1,5 +1,6 @@
 ICT202
 ======
 
-Computer Organization and Architecture
-*Gray Code
+# Computer Organization and Architecture
+
+* Gray Code
